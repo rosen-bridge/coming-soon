@@ -1,0 +1,189 @@
+@font-face {
+  font-family: 'IconsFont';
+  src:  url('Icons.eot');
+  src:  url('Icons.eot') format('embedded-opentype'),
+    url('Icons.ttf') format('truetype'),
+    url('Icons.woff') format('woff'),
+    url('Icons.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'IconsFont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ep-icon-move:before {
+  content: "\e935";
+}
+.ep-icon-close:before {
+  content: "\e92f";
+}
+.ep-icon-down:before {
+  content: "\e930";
+}
+.ep-icon-filter-chart:before {
+  content: "\e931";
+}
+.ep-icon-hamburger-menu:before {
+  content: "\e932";
+}
+.ep-icon-information:before {
+  content: "\e933";
+}
+.ep-icon-up:before {
+  content: "\e934";
+}
+.ep-icon-admin-dashboard:before {
+  content: "\e900";
+}
+.ep-icon-admin-logout:before {
+  content: "\e901";
+}
+.ep-icon-admin-management-ui:before {
+  content: "\e902";
+}
+.ep-icon-admin-management:before {
+  content: "\e903";
+}
+.ep-icon-admin-setting:before {
+  content: "\e904";
+}
+.ep-icon-amd:before {
+  content: "\e905";
+}
+.ep-icon-copy:before {
+  content: "\e906";
+}
+.ep-icon-delete:before {
+  content: "\e907";
+}
+.ep-icon-edit:before {
+  content: "\e908";
+}
+.ep-icon-exchange:before {
+  content: "\e909";
+}
+.ep-icon-external-link:before {
+  content: "\e90a";
+}
+.ep-icon-filter-date:before {
+  content: "\e90b";
+}
+.ep-icon-filter:before {
+  content: "\e90c";
+}
+.ep-icon-fullscreen:before {
+  content: "\e90d";
+}
+.ep-icon-google:before {
+  content: "\e90e";
+}
+.ep-icon-left-arrow:before {
+  content: "\e90f";
+}
+.ep-icon-left:before {
+  content: "\e910";
+}
+.ep-icon-linux:before {
+  content: "\e911";
+}
+.ep-icon-logo-fill:before {
+  content: "\e912";
+}
+.ep-icon-nvidia:before {
+  content: "\e913";
+}
+.ep-icon-plus:before {
+  content: "\e914";
+}
+.ep-icon-refresh:before {
+  content: "\e915";
+}
+.ep-icon-right-arrow:before {
+  content: "\e916";
+}
+.ep-icon-right:before {
+  content: "\e917";
+}
+.ep-icon-search:before {
+  content: "\e918";
+}
+.ep-icon-social-discord:before {
+  content: "\e919";
+}
+.ep-icon-social-facebook:before {
+  content: "\e91a";
+}
+.ep-icon-social-github:before {
+  content: "\e91b";
+}
+.ep-icon-social-instagram:before {
+  content: "\e91c";
+}
+.ep-icon-social-linkedin:before {
+  content: "\e91d";
+}
+.ep-icon-social-telegram:before {
+  content: "\e91e";
+}
+.ep-icon-social-twitter:before {
+  content: "\e91f";
+}
+.ep-icon-sort:before {
+  content: "\e920";
+}
+.ep-icon-sorted:before {
+  content: "\e921";
+}
+.ep-icon-star:before {
+  content: "\e922";
+}
+.ep-icon-user-dashboard:before {
+  content: "\e923";
+}
+.ep-icon-user-help-desk:before {
+  content: "\e924";
+}
+.ep-icon-user-setting:before {
+  content: "\e925";
+}
+.ep-icon-user-wallet:before {
+  content: "\e926";
+}
+.ep-icon-useralt-ergo-explorer:before {
+  content: "\e927";
+}
+.ep-icon-useralt-ergo1:before {
+  content: "\e928";
+}
+.ep-icon-useralt-ergo2:before {
+  content: "\e929";
+}
+.ep-icon-useralt-lock:before {
+  content: "\e92a";
+}
+.ep-icon-useralt-profile:before {
+  content: "\e92b";
+}
+.ep-icon-useralt-swagger:before {
+  content: "\e92c";
+}
+.ep-icon-useralt-unlock:before {
+  content: "\e92d";
+}
+.ep-icon-windows:before {
+  content: "\e92e";
+}
